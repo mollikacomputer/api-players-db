@@ -1,0 +1,9 @@
+strPlayer: "Danny Welbeck"
+strDescriptionEN:
+strBanner: 
+strBirthLocation: "Longsight, Manchester, England"
+
+
+strCutout: 
+strFacebook:
+
